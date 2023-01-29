@@ -70,7 +70,7 @@ header {
 }
 
 nav {
-  /* display: none; */
+  display: none;
 }
 
 u {
@@ -212,8 +212,7 @@ button {
   .show {
     display: block;
     background: black;
-    color: white
-    
-    ;
+    color: white  ;
+    border-radius: 5px;
   }
 }
